@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "954065605843",
+    "firebase_url": "https://myfirebaseprojects-ffefa.firebaseio.com",
+    "project_id": "myfirebaseprojects-ffefa",
+    "storage_bucket": "myfirebaseprojects-ffefa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954065605843:android:fd3b4ddac799742d",
+        "android_client_info": {
+          "package_name": "com.example.jitendrakumar.firebaserealtimedatabaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954065605843-189gm7qo2331o3r9koi10oq5mp1ijufh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jitendrakumar.firebaserealtimedatabaseapp",
+            "certificate_hash": "55a1c0e881c04dabe3f39e0e37aa0e70695f5fe7"
+          }
+        },
+        {
+          "client_id": "954065605843-4ae3qnkvaahm0unpkrhkk8usmfjq7vqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAATnIPulwb3Uf78thXgrZX1OysBb0rReE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954065605843-4ae3qnkvaahm0unpkrhkk8usmfjq7vqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
